@@ -1,2 +1,4 @@
 # pemrograman-mobile-tugas-variabel-dan-typedata
-Tugas 2
+Tugas Variabel dan Typedata
+Nama : Muhammad Ilham Maudjud
+NPM : 07352311157 
